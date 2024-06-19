@@ -12,3 +12,27 @@ Github no me dejo subir los dos archivos zip que continen los datos, entonces su
 |casillas_PEF2024.prj|145|
 |casillas_PEF2024.shp|4764692|
 |casillas_PEF2024.shx|1361412|
+
+|Archivo|Tamaño|
+|------------|------------|
+|DISTRITO_FEDERAL.dbf|   27825|
+|DISTRITO_FEDERAL.prj|     436|
+|DISTRITO_FEDERAL.shp|14909360|
+|DISTRITO_FEDERAL.shx|    2500|
+|DISTRITO_LOCAL.dbf  |   55192|
+|DISTRITO_LOCAL.prj  |     436|
+|DISTRITO_LOCAL.shp  |20003500|
+|DISTRITO_LOCAL.shx  |    5532|
+|ENTIDAD.dbf         |    7297|
+|ENTIDAD.prj         |     436|
+|ENTIDAD.shp         | 7112480|
+|ENTIDAD.shx         |     356|
+|MUNICIPIO.dbf       |  349482|
+|MUNICIPIO.prj       |     436|
+|MUNICIPIO.shp       |35564360|
+|MUNICIPIO.shx       |   19916|
+|SECCION.dbf         | 8844446|
+|SECCION.prj         |     436|
+|SECCION.shp         |153787600|
+|SECCION.shx         |  566124|
+
